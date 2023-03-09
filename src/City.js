@@ -12,7 +12,7 @@ const City = ({city}) => {
         <p className='text-zinc-500'>CITY </p><br />
             {city.name}
         </div>
-        <div className='text-2xl p-6 font-md tracking-widest'>
+        <div className='text-2xl p-6 font-md tracking-widest'>g
            <p className='text-zinc-500'>WIND SPEED </p><br />
            {city.wind.speed}
         </div>
